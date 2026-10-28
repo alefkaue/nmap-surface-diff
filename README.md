@@ -1,7 +1,5 @@
 # Nmap Surface Diff
 
-**Área do portfólio:** [Cloud/Infraestrutura](https://github.com/alefkaue#cloudinfraestrutura) · **Contexto:** Projeto pessoal
-
 [![Tests](https://github.com/alefkaue/nmap-surface-diff/actions/workflows/tests.yml/badge.svg)](https://github.com/alefkaue/nmap-surface-diff/actions/workflows/tests.yml)
 
 Inventário e comparação **offline** de relatórios XML do Nmap. Ajuda a revisar mudanças na superfície observada: novos endpoints, endpoints não observados e mudanças no rótulo de serviço. Não executa o Nmap nem envia tráfego.
